@@ -1,0 +1,25 @@
+/*------------- google fonts ---------- */
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap");
+
+/* ==============  */
+/* Basic Setup  */
+/* ==============  */
+
+body {
+  font-family: "Titillium Web", sans-serif;
+}
+
+.box_1 {
+  background: rosybrown;
+  border: 1px solid gold;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+.box_2 {
+  background: lightgreen;
+  border: 1px solid gold;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
